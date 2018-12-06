@@ -2,11 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: blueored.com (offline)
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: To implement the whole project from nothing. Target was to use all new and cool stuff like docker eg. the pipelines etc. , python (it is now really my favorite language ... maybe Go can beat it), all the mobile constraints ... also the implementation of the openstreetmap tiles and the configuration and orchestration of all the things swirring arround.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
