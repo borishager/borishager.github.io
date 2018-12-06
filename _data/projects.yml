@@ -3,9 +3,34 @@
 # blueored.com
 - project: blueored.com (offline)
   role: Founder, CEO & Primary Developer etc. (blueored)
-  description: To implement the whole project from nothing. Target was to use all new and cool stuff like docker eg. the pipelines etc., python, all the mobile constraints ... also the implementation of the openstreetmap tiles and the configuration and orchestration of all the things buzz arround.
+  description: To implement the whole project from nothing. Target was to use all new and cool stuff like docker eg. the pipelines etc., python, all the mobile constraints ... also the implementation of the openstreetmap tiles and the configuration and orchestration of all the things buzzing arround.
 
 # Introducing SCRUM
 - project: Introducing SCRUM in a waterfall organization
   role: Head of Software Engineering (GATC)
   description: Introduction of Continuous-Lifecycle Environment (including SCRUM) & Controlling of PIRs and KPIs in a Regulatory Environment against all odds. Also implemented several Roles within ITSM.
+
+# Paas & Saas
+- project: PaaS & SaaS Architecture
+  role: Head of Software Engineering (GATC)
+  description: Architecture conception and planning of the implementation strategy of a completely new micro service solution in the sense of PaaS and SaaS for a new laboratory interface management system.
+  
+ # Testing
+- project: Regression / Product testing
+  role: Lead Manager ITSM / Change Managment / QA Lead (HolidayCheck)
+  description: Organize and complete coverage of automated regression / product testing within the organization and QA software development.
+  
+ # Marketing
+- project: Customer card
+  role: Senior Software Engineer (HolidayCheck)
+  description: Introduction and marketing of the HolidayCheck customer card. Yes that was a really different experience, which helped me not to take the IT view.
+  
+  # Web 
+- project: Design and Implementation
+  role: Software Engineer (Pfister Int. Group)
+  description: Design and implementation of the unisto.de webpage. Yes ... how can I just forget my first big project?! :)
+
+  # Data 
+- project: Cluster data transfer
+  role: Intern Software Engineer (Siemens)
+  description: Error analysis tool / evaluation for display on the client end devices and information distribution to the data cluster of the Siemens Group
