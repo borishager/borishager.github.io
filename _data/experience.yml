@@ -1,4 +1,5 @@
 # Jobs
+
 # blueored
 - company: Blueored
   position: Founder & CEO
@@ -8,23 +9,23 @@
 # gatc
 - company: GATC Biotech 
   position: Head of Software Engineering
-  duration:  Mar, 2015 &mdash; Feb, 2017
+  duration: Mar, 2015 &mdash; Feb, 2017
   summary: As Head, I was responsible for the software development of a biotechnology company specializing in sequencing DNA. Particularly noteworthy was the introduction of the agile organizational structure and the methodologies and processes of SCRUM and Continious Delivery ... also against internal resistance. However, the ROI has been significantly improved by this.
 
 # holidaycheck
 - company: HolidayCheck
   position: Release-, Change- & Team Managment / Senior Software Developer
-  duration:   Jun, 2008  &mdash; May, 2010
+  duration: Jun, 2008  &mdash; May, 2010
   summary: Started in a small startup as a software developer. The company grew enormously and pre-tax sales were almost 1 billion a year. Here I took positions from the management of a development team, to release management and ultimately the responsibility of change management including the QA department. Most of all, we were proud of our innovation in process management in terms of release and service architecture.
 
 # pfister 
 - company: Pfister Int. Group
   position: Software Developer
-  duration:   Jun, 2002  &mdash; Jul, 2005
+  duration: Jun, 2002  &mdash; Jul, 2005
   summary: As a software developer, I almost started my career here. A mix of client and web applications lied my experience above all to increase customer desires. Towards the end, I had taken over the responsibility for the software architecture and was able to educate myself considerably.
 
 # siemens 
 - company: Siemens
   position: Software Developer (student)
-  duration:   Jun, 2008  &mdash; May, 2010
+  duration: Mar, 2001  &mdash; Feb, 2002
   summary: As a student, although I was dispensable and not always with the best tasks supervised, but just the time on the mail sorting machines gave me an insight into the interaction of hardware and software that I do not want to miss today.
