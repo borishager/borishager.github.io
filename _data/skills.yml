@@ -1,12 +1,22 @@
 # Skills
+
 # Organizational leadership
 - skill: Organizational leadership
   description: I have several years of experience leading organziations from small groups to manage my own company. From mentoring to coordination of people and events, I can lead in any context.
 
 # Communications strategy
 - skill: Communications strategy
-  description: Content and marketing strategy.
+  description: Content and marketing strategy. But ... nobody here can expect mainstream from me
 
 # Digital content development and creation
 - skill: Digital content development and creation
-  description: Front-end & back-end web/client development, graphic & web design.
+  description: Front-end & back-end web/client development, graphic & web design. (the important programming languages, etc. are constantly changing ... anyway)
+  
+# Clouding
+- skill: Clouding, CI/CD, ITSM/ITIL
+  description: From creating cloud service setup over CI/CD techniques to creating and implementing the connected processes (esp. with vie on every agile aspects)
+  
+# Creativity
+- skill: Creativity
+  description: There's the world I live in. Through my creativity and desire for something new, the change is generally always the focus.
+
