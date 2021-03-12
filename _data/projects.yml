@@ -21,7 +21,7 @@
   description: To implement the whole project from nothing. Target was to use all cool stuff like docker e.g. the pipelines etc., python, all the mobile constraints ... also the implementation of the openstreetmap tiles and the configuration and orchestration of all the things buzzing arround.
 
 # Introducing SCRUM
-- project: Introducing SCRUM in a waterfall organization
+- project: Introducing Agility in a waterfall organization
   role: Head of Software Engineering (GATC)
   description: Introduction of Continuous-Lifecycle Environment (including SCRUM) & Controlling of PIRs and KPIs in a regulatory environment against all odds. Also implemented several roles within ITSM.
 
